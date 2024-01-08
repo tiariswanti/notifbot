@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const Eris = require("eris");
 const keepAlive = require("./server");
 
